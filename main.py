@@ -1,4 +1,2 @@
-print("Day 1 - String Manipulation")
-print('String concatenation is done with the "+" sign')
-print('e.g. print("Hello " + "world")')
-print("New lines can be created with a backslash and n.")
+# Prints name with a user input into the terminal
+print("Hello " + input("What's your name?"))

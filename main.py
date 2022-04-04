@@ -1,6 +1,9 @@
-from operator import le
+a = input("a: ")
+b = input("b: ")
 
+c = a
+a = b
+b = c
 
-name = input('What is you name? ')
-length = len(name)
-print(length)
+print("a = " + a)
+print("b = " + b)

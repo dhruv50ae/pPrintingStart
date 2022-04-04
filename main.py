@@ -1,1 +1,6 @@
-print(len(input("What is your name? ")))
+from operator import le
+
+
+name = input('What is you name? ')
+length = len(name)
+print(length)

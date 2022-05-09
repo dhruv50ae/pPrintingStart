@@ -4,7 +4,8 @@
 - ⚠️THIS IS AN INITIAL PROJECT, NOT INDICATIVE OF CURRENT/FUTURE SKILLS⚠️
 ## Images
 
-IMAGE HERE
+<img src = "https://cdn.discordapp.com/attachments/229247596571525120/973217774186954862/unknown.png" />
+
 ## Description
 
 - Used the print statement
@@ -16,8 +17,8 @@ IMAGE HERE
 
 - Local Memory ✅
 - Concatenation ✅
-- variables ✅
-- print statement ✅
+- Variables ✅
+- Print statement ✅
 - Basics of Python syntax ✅
 ## How To Use
 
